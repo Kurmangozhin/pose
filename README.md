@@ -1,7 +1,7 @@
 # pose
 human posture
 
-### full
-### back
-### front
-### side
+#### 1.full
+#### 2.back
+#### 3.front
+#### 4.side
